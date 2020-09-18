@@ -1,2 +1,3 @@
 # project1
-Data analysis
+Data analysis - Udacity Project 1
+

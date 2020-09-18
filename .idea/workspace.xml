@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ac3e46a8-6aef-4486-8c63-f842b941f4a2" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JupyterTrust" id="264823e3-a845-4422-8518-27bfeebd0c19" />
+  <component name="ProjectId" id="1gvOabupF4XKtYAyExOdQpjt8Oa" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.notebooks.jupyter.connections.configuration.JupyterServerConfigurable" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ac3e46a8-6aef-4486-8c63-f842b941f4a2" name="Default Changelist" comment="" />
+      <created>1598991664820</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598991664820</updated>
+      <workItem from="1598991666272" duration="1565000" />
+      <workItem from="1600425318614" duration="64000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom" timestamp="1598992210890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.bottom/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992210890" />
+    <state width="2517" height="401" key="GridCell.Tab.0.center" timestamp="1598992210890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.center/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992210890" />
+    <state width="2517" height="401" key="GridCell.Tab.0.left" timestamp="1598992210890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.left/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992210890" />
+    <state width="2517" height="401" key="GridCell.Tab.0.right" timestamp="1598992210890">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="2517" height="401" key="GridCell.Tab.0.right/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992210890" />
+    <state x="781" y="345" key="SettingsEditor" timestamp="1600425381877">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992206686" />
+    <state x="781" y="345" key="SettingsEditor/0.0.2560.1400/-1920.351.1920.1040@0.0.2560.1400" timestamp="1600425381877" />
+    <state x="915" y="389" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1598992099486">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="915" y="389" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400/-1080.-232.1080.1880@0.0.2560.1400" timestamp="1598992099486" />
+  </component>
+</project>
