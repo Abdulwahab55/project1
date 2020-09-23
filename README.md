@@ -1,5 +1,5 @@
-## project1
-Data analysis - Udacity Project 1
+## House Price Prediction - Data analysis - Udacity Project 1
+
 
 This project is aimed to present some information about house pricing and what factors the pricing depends on, the dataset used in this project contains information about house specifications, location, and prices that are related to Washington  state in America. the dataset had been taken from kaggle website.
 
