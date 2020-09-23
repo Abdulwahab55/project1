@@ -10,4 +10,4 @@ This project is consist of three main business questions:
 
 In order to seek answers for our besiness questions, we have to use tools such as matplotlib,sklearn, and seaborn.
 
-To review my project and to see the result, please see the project on project2.ipynb
+To review my project and to see the result, please see the project on project.ipynb
