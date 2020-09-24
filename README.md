@@ -1,7 +1,7 @@
 ## House Price Prediction - Data analysis - Udacity Project 1
 
 
-This project is aimed to present some information about house pricing and what factors the pricing depends on, the dataset used in this project contains information about house specifications, location, and prices that are related to Washington  state in America. the dataset had been taken from kaggle website.
+This project is aimed to present some information about house pricing and what factors the pricing depends on, the dataset used in this project contains information about house specifications, location, and prices that are related to Washington  state in America. also, The dataset consisted of historic data of houses sold between May 2014 to May 2015
 
 This project is consist of three main business questions:
 * What are the expected house features for average prices based on our analysis?
@@ -11,3 +11,7 @@ This project is consist of three main business questions:
 In order to seek answers for our besiness questions, we have to use tools such as matplotlib,sklearn, and seaborn.
 
 To review my project and to see the result, please see the project on project.ipynb
+
+dataset link https://www.kaggle.com/vasugarg/house-price-prediction
+
+
