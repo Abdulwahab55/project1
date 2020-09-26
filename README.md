@@ -3,9 +3,6 @@
 
 This project is aimed to present some information about house pricing and what factors the pricing depends on,and the goal of this statistical analysis is to help us understand the relationship between house features and how these variables are used to predict house price. Also, to present some data visualization figures that help the public to understand the prices change from house to another and why.
 
-
-and prices that are related to Washington  state in America. also, The dataset consisted of historic data of houses sold between May 2014 to May 2015
-
 This project is consist of three main business questions:
 * What are the expected house features for average prices based on our analysis?
 * What are the most effective house features in pricing?
@@ -33,7 +30,7 @@ This project provides answers for our raised questions. Starting with cleaning a
   This file contains the project description, used tools and libraries, project summary, and content listing.
 * house_data.csv
 
- This file is the dataset that used in this project, dataset link https://www.kaggle.com/vasugarg/house-price-prediction
+ This file is the dataset that used in this project, dataset link https://www.kaggle.com/vasugarg/house-price-prediction, The dataset is consisted of historic data of houses sold between May 2014 to May 2015 in Washington state
 * project.ipybn
 
   This file contains all the work that are done to present all data visualization figures and prediction results.
