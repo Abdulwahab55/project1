@@ -41,7 +41,7 @@ This project is consist of three main business questions:
 
 This project provides answers for our raised questions. Starting with cleaning and filtering our data and run it into some processes, in order to answer our business question. We are able to predict the the features of averagely priced housed, find the most effective features that influence the pricing are the house grading and lot area, and design a model to be able to predict 69.3% of house pricing using Linear reggression and 83% using RandomForestRegressor.
 
-The main findings of the code can be found at the post available [here]()
+The main findings of the code can be found at the post available [here](https://medium.com/@abdalwahab.alessa/house-price-prediction-298b38b38636)
 
 
 
