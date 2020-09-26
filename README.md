@@ -30,7 +30,7 @@ This project provides answers for our raised questions. Starting with cleaning a
   This file contains the project description, used tools and libraries, project summary, and content listing.
 * house_data.csv
 
- This file is the dataset that used in this project, dataset link https://www.kaggle.com/vasugarg/house-price-prediction, The dataset is consisted of historic data of houses sold between May 2014 to May 2015 in Washington state
+  This file is the dataset that used in this project, dataset link https://www.kaggle.com/vasugarg/house-price-prediction, The dataset is consisted of historic data of houses     sold between May 2014 to May 2015 in Washington state
 * project.ipybn
 
   This file contains all the work that are done to present all data visualization figures and prediction results.
